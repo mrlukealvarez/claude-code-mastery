@@ -1,0 +1,30 @@
+# Example CLAUDE.md — Global Configuration
+
+# This is a sanitized example of the layered CLAUDE.md architecture.
+# Real implementations contain project-specific rules and context.
+
+## Core Rules
+1. Brain dumps: voice-first input, parse and act. Never ask clarification.
+2. ADHD accommodation: save unanswered items, circle back explicitly.
+3. Delegate: >2 file edits = dispatch agents.
+4. Archives first: search local intelligence BEFORE external research.
+5. One task, one deliverable per sprint.
+6. Verify numbers against single source of truth. No exceptions.
+7. Simplify before every commit.
+
+## DO NOT
+- Cite numbers without checking verified source
+- Create duplicate docs (check existing first)
+- Store secrets in config (use .env files only)
+
+## Research Protocol
+- Check local archives BEFORE external research
+- If 2-3 searches confirm something doesn't exist, stop searching
+- Read official docs BEFORE modifying any config file
+
+## Writing Style
+- NO em dashes. Use commas, periods, or restructure.
+- Tone: transparent, human, direct. Not corporate.
+- Lead with the answer, not the reasoning.
+- No filler: "It's worth noting", "Let me explain"
+- No hedge stacking: pick one qualifier or commit

@@ -1,0 +1,25 @@
+# Memory Index (Sanitized Example)
+
+# This is the always-loaded index file. Content lives in topic files.
+# Target: under 40 lines. Pure index, no content.
+
+## Topic Files
+
+| File | Contents |
+|------|----------|
+| `memory/operating-system.md` | Org structure, workflow patterns |
+| `memory/product.md` | Core product details and architecture |
+| `memory/partnerships.md` | Key relationships and status |
+| `memory/infrastructure.md` | Tech stack, tools, known gaps |
+| `memory/anti-patterns.md` | Known failures to avoid |
+| `memory/feedback_style.md` | User corrections on communication style |
+| `memory/priorities.md` | Current P0/P1/P2 ranked priorities |
+
+## Rules for Memory
+
+- MEMORY.md is always loaded (keep it small)
+- Topic files are loaded on demand (can be deep)
+- Update or remove memories that become outdated
+- No duplicate memories (check before writing)
+- Memory types: user, feedback, project, reference
+- Never store: code patterns (read the code), git history (use git log), debug solutions (the fix is in the commit)

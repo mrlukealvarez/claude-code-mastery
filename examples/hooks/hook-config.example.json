@@ -1,0 +1,40 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "# Security gate: check for secrets before shell execution",
+            "description": "Prevents accidental exposure of API keys or credentials"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "# Quality gate: verify written files meet standards",
+            "description": "Auto-checks for TODO markers, placeholder content, and secrets"
+          }
+        ]
+      }
+    ],
+    "PostCommit": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "# Auto-learn: capture commit patterns for improvement",
+            "description": "Logs commit metadata for sprint tracking and self-improvement"
+          }
+        ]
+      }
+    ]
+  }
+}
