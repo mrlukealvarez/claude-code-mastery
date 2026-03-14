@@ -4,7 +4,11 @@
 >
 > 397 sprints. 782 git commits. 1,000+ AI agents dispatched. 80 active days. One founder.
 >
+> **I have never written a single line of code.** Claude wrote all 800,000+ lines across 39 repositories. I configured, corrected, and directed. Claude built. This guide documents how.
+>
 > Most Claude Code users are operating at maybe 10% of what's possible. This guide shows you the other 90%.
+>
+> Inspired by the growing movement of AI-native builders (like [@karpathy's autoresearch](https://github.com/karpathy/autoresearch) and [@ellen_in_sf's autoresearch-gen](https://x.com/ellen_in_sf/status/2032538112971444436)) who are proving that the right configuration turns AI from a tool into a co-founder. The goal: help every Claude Code user verify they're using it fully, and build a subject matter expert that stays current with every CLI update and feature release.
 
 ---
 
@@ -362,6 +366,14 @@ I moved to a town of 2,100 people to find out.
 He uses Claude Code on a Max plan with 1M context every day. His API spend is in Anthropic's billing system.
 
 **Contact:** luke@blackhillsconsortium.org | 571-422-1860
+
+---
+
+## Acknowledgments
+
+Thanks to [Mike Krieger](https://x.com/mikeyk) and the Claude team for building something worth mastering. The doubled usage hours came at exactly the right time. Thanks to [@ellen_in_sf](https://x.com/ellen_in_sf) for showing what AI-native research looks like, and to [@karpathy](https://github.com/karpathy) for autoresearch. We're all building the same future from different angles.
+
+And thanks to Claude itself. 800,000 lines of code, zero written by me. Every sprint, every agent, every terminal. Co-founded, not assisted.
 
 ---
 
