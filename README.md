@@ -342,12 +342,12 @@ Corrections → rules → better behavior → fewer corrections. This compounds.
 | Federal data API connectors | 17 |
 | Intelligence files produced | 693 (348,000+ lines) |
 | Websites deployed | 15 |
-| CRM records | 18,800+ |
+| CRM records | Thousands |
 | Partner towns | 14 |
-| Government AI terminals deployed | 6 (to named elected officials) |
-| Economic impact model | $197.7M across 10 communities |
-| Campus developed | 15 acres, 3 buildings, $2.6M invested |
-| Political meetings | Governor (3x), AG, US Congressman |
+| Government AI terminals deployed | 6 |
+| Economic impact model | Multi-community, multi-year |
+| Campus developed | 15 acres, 3 buildings |
+| Political meetings | State and federal elected officials |
 
 ### What This Proves
 
