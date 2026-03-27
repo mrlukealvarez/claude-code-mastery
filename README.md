@@ -365,7 +365,7 @@ I moved to a town of 2,100 people to find out.
 
 He uses Claude Code on a Max plan with 1M context every day. His API spend is in Anthropic's billing system.
 
-**Contact:** luke@blackhillsconsortium.org | 571-422-1860
+**Contact:** luke@blackhillsconsortium.org
 
 ---
 
